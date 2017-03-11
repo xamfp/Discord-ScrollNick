@@ -14,4 +14,4 @@ Execute the following command:
 python3 scrollnick.py
 ```
 
-Enter your token and then type !scrollnick into a channel on the server you want your Discord nickname to scroll.
+Enter your token and then type ```!scrollnick``` into a channel on the server you want your Discord nickname to scroll.
